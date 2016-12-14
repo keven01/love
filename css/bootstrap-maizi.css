@@ -44,7 +44,7 @@ body{
 /*home*/
 #home{
     margin-top: 70px;
-    background: url("../images/home-bg.jpg");
+    background: url("../images/th_3.jpg");
     background-size: cover;
     color: #ffffff;
     text-align: center;
@@ -159,7 +159,7 @@ body{
 
 /*contact*/
 #contact{
-    background: url("../images/contact-bg.png") no-repeat;
+    background: url("../images/th_3.jpg") no-repeat;
     background-size: cover;
     color: #ffffff;
 }
