@@ -11,7 +11,7 @@ body{
     line-height: 40px;
     margin-right: 20px;
 }
-/*µ¼º½*/
+/*ï¿½ï¿½ï¿½ï¿½*/
 .navbar-default{
     background-color: #fff;
     border: none;
@@ -94,7 +94,12 @@ body{
 
 /*HTML5 + bootstrap*/
 #html5{
-    background: #f8f8f8;
+    margin-top: 70px;
+    background: url("../images/th_3.jpg");
+    background-size: cover;
+    color: #ffffff;
+    text-align: center;
+    width: 100%;
 }
 #html5 , #bootstrap{
     padding: 80px 0;
@@ -139,11 +144,13 @@ body{
 
 /*app*/
 #app{
-    padding: 80px 0;
+    background: url("../images/th_3.jpg") no-repeat;
+    background-size: cover;
+    color: #ffffff;
 }
 #app h2{
     font-weight: bold;
-    padding-bottom: 30px;
+    /*padding-bottom: 30px;*/
 }
 #app .btn{
     margin: 10px 0;
